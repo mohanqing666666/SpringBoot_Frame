@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="server:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7488c9af-c9cc-4f27-a078-41e98d0bb6ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\maven\repository" />
+        <option name="userSettingsFile" value="D:\software\maven\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eq8ag5C6NaWrqOLsDbfIzP0p9f" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/2018108102926206_94640(1)/45番外补充篇-RedisTemplate的自定义注入配置/springbootteach02" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.debug.steadyjack.server.Impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyJavaProjectWorkspace\springboot_test\springboot_multipart\server\src\main\java\com\debug\steadyjack" />
+      <recent name="D:\MyJavaProjectWorkspace\springboot_test\springboot_multipart\server\src\main\resources\templates" />
+      <recent name="D:\MyJavaProjectWorkspace\springboot_test\springboot_multipart\model\src\main\resources\mapper" />
+      <recent name="D:\MyJavaProjectWorkspace\springboot_test\springboot_multipart\server\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\MyJavaProjectWorkspace\springboot_test\springboot_multipart\server\src\main\java\com\debug\steadyjack\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.debug.steadyjack.config" />
+      <recent name="com.debug.steadyjack.controller" />
+      <recent name="com.debug.steadyjack.listener" />
+      <recent name="com.debug.steadyjack.util" />
+      <recent name="com.debug.steadyjack.server.Impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyJavaProjectWorkspace\springboot_test\springboot_multipart\model\src\main\resources\mapper" />
+      <recent name="D:\MyJavaProjectWorkspace\springboot_test\springboot_multipart\model\src\main\java\com\debug\steadyjack\model\mapper" />
+      <recent name="D:\MyJavaProjectWorkspace\springboot_test\springboot_multipart\model\src\main\java\com\debug\steadyjack\model\entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BootMoreApplication (1)">
+    <configuration name="BootMoreApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.debug.steadyjack.BootMoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.551" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.551" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="server:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/spring" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_551_springboot_multipart" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50584" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="server:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.551" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_springboot_multipart" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50584" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.BootMoreApplication (1)" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.551" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.1282844" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7488c9af-c9cc-4f27-a078-41e98d0bb6ff" name="Default Changelist" comment="" />
+      <created>1595037827615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595037827615</updated>
+      <workItem from="1595037833090" duration="8160000" />
+      <workItem from="1595051109500" duration="1601000" />
+      <workItem from="1595209659723" duration="19039000" />
+      <workItem from="1595381780186" duration="35406000" />
+      <workItem from="1595844529000" duration="647000" />
+      <workItem from="1596097834721" duration="7170000" />
+      <workItem from="1596426522847" duration="473000" />
+      <workItem from="1596427114254" duration="1900000" />
+      <workItem from="1596435280219" duration="14924000" />
+      <workItem from="1596511603168" duration="8637000" />
+      <workItem from="1596678544835" duration="19647000" />
+      <workItem from="1596704624701" duration="13801000" />
+      <workItem from="1596768257748" duration="2667000" />
+      <workItem from="1596793108175" duration="4739000" />
+      <workItem from="1597026733101" duration="16754000" />
+      <workItem from="1597125592809" duration="10266000" />
+      <workItem from="1597140223873" duration="2569000" />
+      <workItem from="1597386101491" duration="10813000" />
+      <workItem from="1597731970112" duration="16390000" />
+      <workItem from="1597801604753" duration="17241000" />
+      <workItem from="1597973729668" duration="1594000" />
+      <workItem from="1598232819766" duration="18520000" />
+      <workItem from="1598323757878" duration="275000" />
+      <workItem from="1598412318844" duration="3347000" />
+      <workItem from="1598491820499" duration="12000" />
+      <workItem from="1598493018862" duration="15111000" />
+      <workItem from="1598593658866" duration="12931000" />
+      <workItem from="1598839414477" duration="3736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="25" key="#Tomcat_Server" timestamp="1596100289890">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="311" y="25" key="#Tomcat_Server/0.0.1366.728@0.0.1366.728" timestamp="1596100289890" />
+    <state x="513" y="222" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1598519112876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="222" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1366.728@0.0.1366.728" timestamp="1598519112876" />
+    <state x="137" y="22" width="1165" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596708292264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" width="1165" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596708292264" />
+    <state x="385" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595232035207">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="385" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1595232035207" />
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1598255152404">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1598255152404" />
+    <state x="184" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596697082490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1596697082490" />
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595389149847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595389149847" />
+    <state x="215" y="143" width="529" height="585" key="#xdebugger.evaluate" timestamp="1598519193244">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="215" y="143" width="529" height="585" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1598519193244" />
+    <state x="442" y="224" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596512043837">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="224" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1596512043837" />
+    <state width="456" height="466" key="DebuggerActiveHint" timestamp="1598602965606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="456" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1598602965606" />
+    <state x="626" y="136" key="FileChooserDialogImpl" timestamp="1598609637389">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="626" y="136" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598609637389" />
+    <state width="1127" height="509" key="GridCell.Tab.-1.bottom" timestamp="1596696702913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1127" height="509" key="GridCell.Tab.-1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596696702913" />
+    <state width="1127" height="509" key="GridCell.Tab.-1.center" timestamp="1596696702913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1127" height="509" key="GridCell.Tab.-1.center/0.0.1366.728@0.0.1366.728" timestamp="1596696702913" />
+    <state width="1127" height="509" key="GridCell.Tab.-1.left" timestamp="1596696702913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1127" height="509" key="GridCell.Tab.-1.left/0.0.1366.728@0.0.1366.728" timestamp="1596696702913" />
+    <state width="1127" height="509" key="GridCell.Tab.-1.right" timestamp="1596696702913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1127" height="509" key="GridCell.Tab.-1.right/0.0.1366.728@0.0.1366.728" timestamp="1596696702913" />
+    <state width="1323" height="312" key="GridCell.Tab.0.bottom" timestamp="1598610471571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598610471571" />
+    <state width="1323" height="312" key="GridCell.Tab.0.center" timestamp="1598610471570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598610471570" />
+    <state width="1323" height="312" key="GridCell.Tab.0.left" timestamp="1598610471570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598610471570" />
+    <state width="1323" height="312" key="GridCell.Tab.0.right" timestamp="1598610471570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598610471570" />
+    <state width="1323" height="312" key="GridCell.Tab.1.bottom" timestamp="1598610471571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598610471571" />
+    <state width="1323" height="312" key="GridCell.Tab.1.center" timestamp="1598610471571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598610471571" />
+    <state width="1323" height="312" key="GridCell.Tab.1.left" timestamp="1598610471571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598610471571" />
+    <state width="1323" height="312" key="GridCell.Tab.1.right" timestamp="1598610471571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598610471571" />
+    <state width="1323" height="312" key="GridCell.Tab.2.bottom" timestamp="1598610471571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598610471571" />
+    <state width="1323" height="312" key="GridCell.Tab.2.center" timestamp="1598610471571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1598610471571" />
+    <state width="1323" height="312" key="GridCell.Tab.2.left" timestamp="1598610471571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1598610471571" />
+    <state width="1323" height="312" key="GridCell.Tab.2.right" timestamp="1598610471571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1598610471571" />
+    <state width="1127" height="387" key="GridCell.Tab.3.bottom" timestamp="1597198945741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1127" height="387" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597198945741" />
+    <state width="1127" height="387" key="GridCell.Tab.3.center" timestamp="1597198945741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1127" height="387" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1597198945741" />
+    <state width="1127" height="387" key="GridCell.Tab.3.left" timestamp="1597198945741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1127" height="387" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1597198945741" />
+    <state width="1127" height="387" key="GridCell.Tab.3.right" timestamp="1597198945741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1127" height="387" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1597198945741" />
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog" timestamp="1597831682488">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1597831682488" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1596709915313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596709915313" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1598493019248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598493019248" />
+    <state x="484" y="32" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598255140657">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="32" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1598255140657" />
+    <state x="232" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598319428840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="232" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1598319428840" />
+    <state x="370" y="124" width="626" height="480" key="find.popup" timestamp="1598493879031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="370" y="124" width="626" height="480" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1598493879031" />
+    <state x="57" y="68" key="new project wizard" timestamp="1595037991570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595037991570" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1597126575816">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1597126575816" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598517192347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598517192347" />
+    <state x="488" y="271" key="svn.upgradeDialog" timestamp="1595505757771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="271" key="svn.upgradeDialog/0.0.1366.728@0.0.1366.728" timestamp="1595505757771" />
+    <state x="455" y="238" key="svn4idea.checkout.options" timestamp="1595505749493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="455" y="238" key="svn4idea.checkout.options/0.0.1366.728@0.0.1366.728" timestamp="1595505749493" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/server/Impl/orderRecordServerImpl.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/OrderRecordController.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/OrderRecordController.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/OrderRecordController.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/MailController.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/MailController.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/MailController.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/server/Impl/EmailServiceImpl.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/MailController.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/server/Impl/EmailServiceImpl.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/AppendixController.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/server/Impl/AppendixService.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/AppendixController.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/AppendixController.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/TestController.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/GlobalExceptionController.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/ExcelController.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/ExcelController.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/server/Impl/PoiService.java</url>
+          <line>221</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/server/Impl/UserServiceImpl.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/RadisTestController.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/RadisTestController.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/server/Impl/UserServiceImpl.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/server/Impl/UserServiceImpl.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/UserController.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/server/Impl/EmailServiceImpl.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/server/Impl/UserServiceImpl.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/server/Impl/UserServiceImpl.java</url>
+          <line>187</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/util/AESUtil.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://D:/software/jdk8/jre/lib/jce.jar!/javax/crypto/Cipher.class</url>
+          <line>657</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/UserController.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/listener/UserOrderListener.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/UserOrderController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/controller/UserOrderController.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/config/RabbitmqConfig.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="content" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
